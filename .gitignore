@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Custom for Product Review Analysis Pipeline
+keys/
+
 # IPython
 profile_default/
 ipython_config.py
