@@ -1,5 +1,5 @@
 # Product Review Analysis Pipeline
-> 60.002 A.I. Applications and Design | SUTD
+> 60.002 A.I. Applications and Design | SUTD | Team 6
 
 An end-to-end AI-driven pipeline that automatically collects product reviews from the web, performs sentiment analysis on specific product features, and generates structured design requirements - built as a consulting tool to identify product design opportunities from real consumer feedback.
 
